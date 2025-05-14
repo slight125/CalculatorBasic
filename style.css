@@ -55,12 +55,12 @@
   
   .equal {
     grid-column: span 1;
-    background-color: #ff9500;
+    background-color: #9309ce;
     color: #fff;
   }
   
   .equal:hover {
-    background-color: #e08900;
+    background-color: #5f09f2;
   }
   
   .zero {
